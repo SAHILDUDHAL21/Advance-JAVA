@@ -17,5 +17,10 @@ public class vectordemo
                 v1.add("lk");
                 System.out.println("Capacity : "+v1.capacity());
                 // baki sara arraylist sarkha ch ahe
+
+
+                System.out.println("clear function");
+                v1.clear();
+                System.out.println(v1);
         }
 }

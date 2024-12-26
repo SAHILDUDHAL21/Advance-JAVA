@@ -32,5 +32,9 @@ public class arraylist3
                 System.out.println("before  "+al1);
                //ArrayList ans= al1.sort();
                 System.out.println("after reversed"+al1.reversed());
+
+                System.out.println("clear function");
+                al1.clear();
+                System.out.println(al1);
         }
 }

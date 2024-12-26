@@ -23,5 +23,9 @@ public class ArrayList1
 
 
                 System.out.println(al);
+
+                System.out.println("clear function");
+                al.clear();
+                System.out.println(al);
         }
 }

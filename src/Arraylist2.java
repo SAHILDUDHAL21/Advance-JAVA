@@ -15,5 +15,9 @@ public class Arraylist2
                 // cant reomve by index by driectly printn
                 b= (boolean) al.remove("44");// nahi chalatr bc
                System.out.println(al);
+
+                System.out.println("clear function");
+                al.clear();
+                System.out.println(al);
         }
 }
