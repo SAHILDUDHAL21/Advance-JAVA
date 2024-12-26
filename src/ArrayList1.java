@@ -18,5 +18,10 @@ public class ArrayList1
 
                 System.out.println("Count Total Elements : "+al.stream().count());
                 System.out.println(al);
+
+                al.add(1,"hello");
+
+
+                System.out.println(al);
         }
 }
