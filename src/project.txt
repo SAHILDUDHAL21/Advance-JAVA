@@ -1,0 +1,5 @@
+create table project(
+pid numeric,
+pname varchar(20),
+pdesc varchar(20),
+pst varchar(20));
