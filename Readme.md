@@ -5,5 +5,5 @@
       - ArrayList
       - Vector
       - LinkedList
-- MultiThtrading
+- MultiThrading
 - JDBC - PosgresSQL
